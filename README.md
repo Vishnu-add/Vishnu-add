@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am currently pursuing my Bachelor of Engineering in computer science<br>I'm currently working on Rice Disease Classifier<br>I'm learning DSA and Deep Learning 
+I am currently pursuing my Bachelor of Engineering in computer science<br>I'm currently working on Rice Disease Classifier project<br>I'm learning DSA and Deep Learning 
 
 
 ## 🌐 Socials:
